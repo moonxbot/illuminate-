@@ -42,9 +42,9 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Developer
 
-**Malvin King (XdKing2)**
+**MooN-X (Xd)**
 
-- GitHub: [@XdKing2](https://github.com/moonxbot)
+- GitHub: [@moonxbot](https://github.com/moonxbot)
 - WhatsApp Channel: [Join Channel](https://whatsapp.com/channel/0029Vb7HL5C0rGiUaquNz21g)
 
 ## 💬 Support
